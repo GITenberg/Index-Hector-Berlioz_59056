@@ -1,0 +1,32 @@
+_repo: Index-Hector-Berlioz_59056
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Berlioz, Hector
+    aliases:
+    - Berlioz, Louis Hector
+    - Berlioz, H. (Hector)
+    birthdate: 1803
+    deathdate: 1869
+    gutenberg_agent_id: '31953'
+    url: http://www.gutenberg.org/2009/agents/31953
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Hector_Berlioz
+    - http://en.wikipedia.org/wiki/Hector_Berlioz
+  editor:
+    agent_name: Greif, Chuck
+    gutenberg_agent_id: '50276'
+    url: http://www.gutenberg.org/2009/agents/50276
+description: ''
+gutenberg_issued: '2019-03-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59056'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Index Hector Berlioz
+url: http://www.gutenberg.org/ebooks/59056
